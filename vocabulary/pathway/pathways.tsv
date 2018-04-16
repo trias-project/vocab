@@ -1,0 +1,52 @@
+term	part_of	term_en	definition	Intentionality
+unknown		unknown		
+natural_dispersal	unaided	natural dispersal		Unintentional
+release		release		
+release_biological_control	release	biological control		Intentional
+release_erosion_control	release	erosion control/ dune stabilization		Intentional
+release_fishery	release	fishery in the wild		Intentional
+release_hunting	release	hunting		Intentional
+release_landscape_improvement	release	landscape/flora/fauna “improvement” in the wild		Intentional
+release_conservation	release	introduction for conservation purposes or wildlife management		Intentional
+release_use	release	release in nature for use		Intentional
+release_other	release	other intentional release		Intentional
+escape		escape		
+escape_agriculture	escape	agriculture		Unintentional
+escape_aquaculture	escape	aquaculture / mariculture		Unintentional
+escape_zoo	escape	botanical garden/zoo/aquaria		Unintentional
+escape_pet	escape	pet/aquarium/terrarium species		Unintentional
+escape_farm	escape	farmed animals		Unintentional
+escape_forestry	escape	forestry		Unintentional
+escape_fur_farm	escape	fur farms		Unintentional
+escape_horticulture	escape	horticulture		Unintentional
+escape_ornamental	escape	ornamental purpose other than horticulture		Unintentional
+escape_research	escape	research and ex-situ breeding		Unintentional
+escape_food_bait	escape	live food and live bait		Unintentional
+escape_other	escape	other escape from confinement		Unintentional
+contaminant		contaminant		
+contaminant_nursery	contaminant	contaminant nursery material		Unintentional
+contaminant_bait	contaminant	contaminated bait		Unintentional
+contaminant_food	contaminant	food contaminant		Unintentional
+contaminant_on_animals	contaminant	contaminant on animals		Unintentional
+contaminant_animal_parasite	contaminant	parasites on animals		Unintentional
+contaminant_on_plants	contaminant	contaminant on plants		Unintentional
+contaminant_plant_parasite	contaminant	parasites on plants		Unintentional
+contaminant_seed	contaminant	seed contaminant		Unintentional
+contaminant_timber	contaminant	timber trade		Unintentional
+contaminant_habitat_material	contaminant	transportation of habitat material		Unintentional
+stowaway		stowaway		
+stowaway_fishing_equipment	stowaway	angling/fishing equipment		Unintentional
+stowaway_container	stowaway	container/bulk		Unintentional
+stowaway_airplane	stowaway	hitchhikers in or on airplane		Unintentional
+stowaway_ship	stowaway	hitchhikers on ship/boat		Unintentional
+stowaway_machinery	stowaway	machinery/equipment		Unintentional
+stowaway_people_luggage	stowaway	people and their luggage/equipment		Unintentional
+stowaway_organic_packing	stowaway	organic packing material		Unintentional
+stowaway_ballast_water	stowaway	ship/boat ballast water		Unintentional
+stowaway_hull_fouling	stowaway	ship/boat hull fouling		Unintentional
+stowaway_vehicles	stowaway	vehicles		Unintentional
+stowaway_other	stowaway	other means of transport		Unintentional
+corridor		corridor		
+corridor_water	corridor	interconnected waterways/basins/seas		Unintentional
+corridor_land	corridor	tunnels and land bridges		Unintentional
+unaided		unaided		
