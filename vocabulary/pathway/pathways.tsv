@@ -1,52 +1,52 @@
-term	part_of	term_en	definition	Intentionality
+term	part_of	term_en	definition	intentionality
 unknown		unknown		
-natural_dispersal	unaided	natural dispersal		Unintentional
-release		release		Intentional
-release_biological_control	release	biological control		Intentional
-release_erosion_control	release	erosion control/ dune stabilization		Intentional
-release_fishery	release	fishery in the wild		Intentional
-release_hunting	release	hunting		Intentional
-release_landscape_improvement	release	landscape/flora/fauna “improvement” in the wild		Intentional
-release_conservation	release	introduction for conservation purposes or wildlife management		Intentional
-release_use	release	release in nature for use		Intentional
-release_other	release	other intentional release		Intentional
-escape		escape		Unintentional
-escape_agriculture	escape	agriculture		Unintentional
-escape_aquaculture	escape	aquaculture / mariculture		Unintentional
-escape_zoo	escape	botanical garden/zoo/aquaria		Unintentional
-escape_pet	escape	pet/aquarium/terrarium species		Unintentional
-escape_farm	escape	farmed animals		Unintentional
-escape_forestry	escape	forestry		Unintentional
-escape_fur_farm	escape	fur farms		Unintentional
-escape_horticulture	escape	horticulture		Unintentional
-escape_ornamental	escape	ornamental purpose other than horticulture		Unintentional
-escape_research	escape	research and ex-situ breeding		Unintentional
-escape_food_bait	escape	live food and live bait		Unintentional
-escape_other	escape	other escape from confinement		Unintentional
-contaminant		contaminant		Unintentional
-contaminant_nursery	contaminant	contaminant nursery material		Unintentional
-contaminant_bait	contaminant	contaminated bait		Unintentional
-contaminant_food	contaminant	food contaminant		Unintentional
-contaminant_on_animals	contaminant	contaminant on animals		Unintentional
-contaminant_animal_parasite	contaminant	parasites on animals		Unintentional
-contaminant_on_plants	contaminant	contaminant on plants		Unintentional
-contaminant_plant_parasite	contaminant	parasites on plants		Unintentional
-contaminant_seed	contaminant	seed contaminant		Unintentional
-contaminant_timber	contaminant	timber trade		Unintentional
-contaminant_habitat_material	contaminant	transportation of habitat material		Unintentional
-stowaway		stowaway		Unintentional
-stowaway_fishing_equipment	stowaway	angling/fishing equipment		Unintentional
-stowaway_container	stowaway	container/bulk		Unintentional
-stowaway_airplane	stowaway	hitchhikers in or on airplane		Unintentional
-stowaway_ship	stowaway	hitchhikers on ship/boat		Unintentional
-stowaway_machinery	stowaway	machinery/equipment		Unintentional
-stowaway_people_luggage	stowaway	people and their luggage/equipment		Unintentional
-stowaway_organic_packing	stowaway	organic packing material		Unintentional
-stowaway_ballast_water	stowaway	ship/boat ballast water		Unintentional
-stowaway_hull_fouling	stowaway	ship/boat hull fouling		Unintentional
-stowaway_vehicles	stowaway	vehicles		Unintentional
-stowaway_other	stowaway	other means of transport		Unintentional
-corridor		corridor		Unintentional
-corridor_water	corridor	interconnected waterways/basins/seas		Unintentional
-corridor_land	corridor	tunnels and land bridges		Unintentional
-unaided		unaided		Unintentional
+natural_dispersal	unaided	natural dispersal		unintentional
+release		release		intentional
+release_biological_control	release	biological control		intentional
+release_erosion_control	release	erosion control/ dune stabilization		intentional
+release_fishery	release	fishery in the wild		intentional
+release_hunting	release	hunting		intentional
+release_landscape_improvement	release	landscape/flora/fauna “improvement” in the wild		intentional
+release_conservation	release	introduction for conservation purposes or wildlife management		intentional
+release_use	release	release in nature for use		intentional
+release_other	release	other intentional release		intentional
+escape		escape		unintentional
+escape_agriculture	escape	agriculture		unintentional
+escape_aquaculture	escape	aquaculture / mariculture		unintentional
+escape_zoo	escape	botanical garden/zoo/aquaria		unintentional
+escape_pet	escape	pet/aquarium/terrarium species		unintentional
+escape_farm	escape	farmed animals		unintentional
+escape_forestry	escape	forestry		unintentional
+escape_fur_farm	escape	fur farms		unintentional
+escape_horticulture	escape	horticulture		unintentional
+escape_ornamental	escape	ornamental purpose other than horticulture		unintentional
+escape_research	escape	research and ex-situ breeding		unintentional
+escape_food_bait	escape	live food and live bait		unintentional
+escape_other	escape	other escape from confinement		unintentional
+contaminant		contaminant		unintentional
+contaminant_nursery	contaminant	contaminant nursery material		unintentional
+contaminant_bait	contaminant	contaminated bait		unintentional
+contaminant_food	contaminant	food contaminant		unintentional
+contaminant_on_animals	contaminant	contaminant on animals		unintentional
+contaminant_animal_parasite	contaminant	parasites on animals		unintentional
+contaminant_on_plants	contaminant	contaminant on plants		unintentional
+contaminant_plant_parasite	contaminant	parasites on plants		unintentional
+contaminant_seed	contaminant	seed contaminant		unintentional
+contaminant_timber	contaminant	timber trade		unintentional
+contaminant_habitat_material	contaminant	transportation of habitat material		unintentional
+stowaway		stowaway		unintentional
+stowaway_fishing_equipment	stowaway	angling/fishing equipment		unintentional
+stowaway_container	stowaway	container/bulk		unintentional
+stowaway_airplane	stowaway	hitchhikers in or on airplane		unintentional
+stowaway_ship	stowaway	hitchhikers on ship/boat		unintentional
+stowaway_machinery	stowaway	machinery/equipment		unintentional
+stowaway_people_luggage	stowaway	people and their luggage/equipment		unintentional
+stowaway_organic_packing	stowaway	organic packing material		unintentional
+stowaway_ballast_water	stowaway	ship/boat ballast water		unintentional
+stowaway_hull_fouling	stowaway	ship/boat hull fouling		unintentional
+stowaway_vehicles	stowaway	vehicles		unintentional
+stowaway_other	stowaway	other means of transport		unintentional
+corridor		corridor		unintentional
+corridor_water	corridor	interconnected waterways/basins/seas		unintentional
+corridor_land	corridor	tunnels and land bridges		unintentional
+unaided		unaided		unintentional
